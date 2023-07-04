@@ -90,10 +90,9 @@
 
 ### 데이터베이스 구조
 
-
 ## 사용자 수행 흐름도
-
+  <img width="800" alt="7" src="https://github.com/GBSW-Stone/.github/assets/64297220/84597435-37e4-42f1-8309-4d482bb9a0a7">
 
 ## Preview
 
-### [Github.io 페이지](https://github.com/GBSW-Stone)
+### [Github.io 페이지](https://gbsw-stone.github.io)
