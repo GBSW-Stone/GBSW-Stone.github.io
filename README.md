@@ -89,19 +89,7 @@
 
 
 ### 데이터베이스 구조
-#### 유저 테이블
-| Field | data type | explanation | properties |
-| ---------- | -------- | --------------- | -------- |
-| id | String | 사용자 아이디 |
-| grade | INT | 학년 | N |
-| class | INT | 반 | N |
-| number | INT | 번호 | N |
-| name | VARCHAR(10) | 이름 | NN |
-| phone | VARCHAR(11) | 유저 전화번호 | NN |
-| account | VARCHAR(30) | 계정 아이디 | NN |
-| password | CHAR(64) | 비밀번호 | NN |
-| position | TINYINT | 역할을 숫자로 나누어 중,고등학생과 중,고등 교사를 구분 | NN |
-| salt | VARCHAR(10) | 입력된 비밀번호와 함께 HASH함수에 넣어 주는 값 | NN |
+
 
 ## 사용자 수행 흐름도
 
